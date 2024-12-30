@@ -29,6 +29,6 @@ Je conçois des applications performantes, sécurisées et évolutives.
 
 - 📫 **Email** : [saifiwalid21@gmail.com](saifiwalid21@gmail.com)  
 - 💼 **LinkedIn** : [Walid SAIFI/](https://www.linkedin.com/in/walid-saifi/)  
-- 🌟 **Portfolio** : [Mon Portfolio](https://walidsaifi.github.io/monportm)   
+- 🌟 **Portfolio** : [Mon Portfolio](https://walidsaifi.github.io/monportm/)   
 
 Merci pour votre visite ! 🚀 N'hésitez pas à explorer mes projets et à me contacter.  
