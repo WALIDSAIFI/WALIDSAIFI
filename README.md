@@ -2,6 +2,7 @@
 
 ## 🌟 À propos de moi
 Salut ! Je suis un **Développeur Full Stack** spécialisé en **Java/Angular**, 
+
 Je conçois des applications performantes, sécurisées et évolutives.  
 
 - 🖥️ **Langages principaux** : Java, TypeScript, PHP  
