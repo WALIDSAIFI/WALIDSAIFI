@@ -2,11 +2,8 @@
 
 ## 🌟 À propos de moi
 Salut ! Je suis un **Développeur Full Stack** spécialisé en **Java/Angular**, 
-
-Passionné par la création d'applications web robustes et performantes, j'optimise l'expérience utilisateur tout en assurant une architecture backend évolutive et sécurisée.
-Mon expertise comprend l'intégration de solutions frontend interactives et dynamiques avec Angular, ainsi que le développement de systèmes backend performants avec Java.
-Toujours à la recherche de nouveaux défis,
-je m'efforce de fournir des solutions efficaces qui répondent aux besoins des utilisateurs tout en utilisant les meilleures pratiques du développement logiciel.
+Passionné par la création d'applications web performantes, j'optimise l'expérience utilisateur et assure une architecture backend sécurisée. 
+Mon expertise inclut le développement frontend avec Angular et backend avec Java. Toujours à la recherche de nouveaux défis,je m'efforce de fournir des solutions efficaces et de qualité.
 
 - 🖥️ **Langages principaux** : Java, TypeScript, PHP  
 - 🌐 **Frameworks** : Spring Boot, Angular, Laravel  
